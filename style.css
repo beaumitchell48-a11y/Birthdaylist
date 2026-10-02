@@ -69,7 +69,7 @@ main h2 {
   gap: 2rem 1.5rem;
 }
 
-/* Each gift is a gift tag. Tag colors rotate: 1 mustard, 2 apricot, 3 sage */
+
 .card {
   --tag: var(--mustard);
   position: relative;
@@ -165,7 +165,7 @@ a:focus-visible {
   outline-offset: 3px;
 }
 
-/* ---------- Footer ---------- */
+
 footer {
   padding: 1rem 1.5rem 3rem;
   text-align: center;
